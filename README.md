@@ -1,7 +1,6 @@
 # X-Attack
-# Made By Charlie : The Hacker
+# By Cyberzone.pk
 ### This script used to do DDOS ATTACK by termux
-# This script is not originally made by me, I had just correct the errors.
 
 ![logo](IMG_20191116_223701.jpg)
 ### Installing
